@@ -1,0 +1,88 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    background-color: #AE7C36;
+    height: 100vh;
+    position: relative;
+}
+.overlay .img{
+    width: 1250px;
+    height: 600px;
+    position: absolute; 
+    margin-top: 20px;
+    margin-left: 56px;
+
+}
+.overlay .ram{
+    color: white;
+    margin-top: 50px;
+    margin-left: 120px;
+    position: absolute;
+    font-size: 25px;
+    float: left;
+}
+ul{
+  margin-right: 100px;
+  margin-top: 50px;
+  position: absolute;
+  float: right;
+  margin-left: 900px;
+}
+.about li{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+ .about li a {
+    list-style: none;
+text-decoration: none;
+text-transform: capitalize;
+color: white;
+}
+.about li .a1{
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #AE7C36;
+}
+.con  .here{
+    margin-left: 120px;
+    position: absolute;
+    font-size: 30px;
+    margin-top: 200px;
+    color: #412e13;
+    /* color: #EFAA4B; */
+}
+.con  .is{
+
+    color: white;
+}
+.con .class{
+    line-height: 30px;
+    margin-left: 120px;
+    position: absolute;
+    font-size: 20px;
+    margin-top: 270px;
+    color: white;
+}
+hr{
+    color: #AE7C36;
+    width: 350px;
+}
+button{
+    border: none;
+    margin-top: 20px;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.btn1{
+
+    color: #FBEDD2;
+    background-color: #AE7C36;
+}
